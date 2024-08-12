@@ -651,6 +651,15 @@ button:hover{
 
 @media (max-width:500px){
 
+    .section6 .box2{
+        padding:40px 30px;
+    }
+
+    .section9 .box2{
+        padding:30px 0px;
+    }
+    
+
    .section12 .container2 {
       width: 100%;
       display: flex;
@@ -663,6 +672,18 @@ button:hover{
  
    .section12 .container2 .box3 h1{
       font-size: 20px;
+   }
+
+     .section13 .box2 .pay1{
+      padding: 30px 10px;
+   }
+
+   .section13 .box2 .pay2{
+      padding:30px 10px ;
+   }
+
+   .section13 .box2 .pay3{
+      padding:30px 10px ;
    }
 
    .section14 .box2{
